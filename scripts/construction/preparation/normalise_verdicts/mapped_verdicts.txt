@@ -1,0 +1,68 @@
+false
+partly false
+satire
+misleading
+unproven
+mostly false
+hoax
+fake
+out of context
+mixture
+no evidence
+false attribution
+true
+misattributed
+outdated
+miscaptioned
+partially false
+unsubstantiated
+unfounded
+legitimate
+correct
+incorrect
+mostly correct
+totally false
+exaggeration
+insufficient evidence
+partly true
+mostly true
+partly correct
+cannot be proven
+no sufficient evidence
+insufficient details
+partially true
+more context needed
+accurate
+inaccurate
+inconclusive
+fact
+fake news
+lie
+half true
+fabricated
+no truth
+clickbait
+without evidence
+deepfake
+lacks evidence
+pants-fire
+barely-true
+half-true
+mostly-true
+partially correct
+mostly accurate
+mostly inaccurate
+legend
+incorrect attribution
+multiple
+no longer true
+evidence is lacking
+halftrue
+untrue
+partly true and false
+uncheckable
+no basis
+wrong
+misrepresentation
+misinterpretation
+no rating found
