@@ -36,6 +36,16 @@ FACTors dataset is provided with a single CSV file, [FACTors.csv](https://github
 | URL | Online link to the report
 | Normalised rating | One of six predefined ratings derived from the original verdict
 
+Along with the dataset, two more CSV files ([author_stats.csv](https://github.com/altuncu/FACTors/blob/main/data/author_stats.csv) and [org_stats.csv](https://github.com/altuncu/FACTors/blob/main/data/org_stats.csv)) are provided, containing the following statistics for each author and fact-checking organisation covered, respectively:
+
+- **Fact-checking experience**: Time difference between a fact-checker's first and last published fact-checking report
+- **Number of fact-checks**: Total number of fact-checking reports a fact-checker has published
+- **Percentage of unique fact-checks**: Proportion of fact-checked claims that have not been investigated by any other fact-checker previously
+- **Fact-checking rate**: Mean and standard deviation of how frequently a fact-checker publishes fact-checking reports
+- **Number of authors**: Number of authors each organisation has employed
+- **Number of organisations**: Number of fact-checking organisations each author has published with
+- **Word count**: Mean and standard deviation of the number of words in the fact-checking reports published by a fact-checker
+
 ## Citation
 
 Please cite our work as follows if you use our dataset or the provided source codes in your research:
