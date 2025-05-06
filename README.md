@@ -46,6 +46,12 @@ Along with the dataset, two more CSV files ([author_stats.csv](https://github.co
 - **Number of organisations**: Number of fact-checking organisations each author has published with
 - **Word count**: Mean and standard deviation of the number of words in the fact-checking reports published by a fact-checker
 
+## Contact
+
+If you have any questions about the dataset and/or source codes, please reach out to the contributors via email:
+- For more information about FACTors and its example applications provided: [Enes Altuncu](mailto:drenesaltuncu@gmail.com)
+- For the Apache Lucene index version of FACTors: [Dwaipayan Roy](mailto:dwaipayan.roy@iiserkol.ac.in)
+
 ## Citation
 
 Please cite our work as follows if you use our dataset or the provided source codes in your research:
