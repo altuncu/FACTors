@@ -34,7 +34,7 @@ FACTors dataset is provided with a single CSV file, [FACTors.csv](https://github
 | Original verdict | Conclusion of the fact-check
 | Title | Heading of the report
 | URL | Online link to the report
-| Normalised rating | One of six predefined ratings derived from the original verdict
+| Normalised rating | One of six predefined ratings derived from the original verdict, using a fine-tuned RoBERTa [model](https://huggingface.co/ealtuncu/verdict-normaliser-roberta)
 
 Along with the dataset, two more CSV files ([author_stats.csv](https://github.com/altuncu/FACTors/blob/main/data/author_stats.csv) and [org_stats.csv](https://github.com/altuncu/FACTors/blob/main/data/org_stats.csv)) are provided, containing the following statistics for each author and fact-checking organisation covered, respectively:
 
@@ -49,7 +49,7 @@ Along with the dataset, two more CSV files ([author_stats.csv](https://github.co
 ## Contact
 
 If you have any questions about the dataset and/or source codes, please reach out to the contributors via email:
-- For more information about FACTors and its example applications provided: [Enes Altuncu](mailto:drenesaltuncu@gmail.com)
+- For more information about FACTors and its example applications provided: [Enes Altuncu](mailto:enes.altuncu@iuc.edu.tr)
 - For the Apache Lucene index version of FACTors: [Dwaipayan Roy](mailto:dwaipayan.roy@iiserkol.ac.in)
 
 ## Citation
